@@ -65,7 +65,7 @@
 
 - Quais as vantangens do uso do Cypress Custom Commands? ✅
 
-https://talkingabouttesting.com/2021/03/18/10-motivos-para-voce-usar-cypress-na-automacao-de-testes-web/
+https://youtu.be/6lMy3NXjw7E
 
 ## Bruna Lima
 
