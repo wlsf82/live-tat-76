@@ -104,6 +104,8 @@ cy.get('nav') // yields <nav>
 - Como faço para utilizar uma condicional e sendo essa a ação para o else que preenche um campo com dados vindos do faker no Cypress...isso é possível? ✅
   - Possível é, mas condicional em testes automatizados normalmente não são uma boa idéia. Recomendo ler a [documentação oficial](https://docs.cypress.io/guides/core-concepts/conditional-testing) e assistir uma live onde falei sobre isso.
 
+https://youtu.be/jwskOz1hTwA
+
 ## Ricardo Camacho
 
 - Cypress seria recomendado para testes de serviço e de unidade? ✅
