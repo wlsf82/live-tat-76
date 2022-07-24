@@ -114,7 +114,7 @@ https://youtu.be/jwskOz1hTwA
 ## Neimar Pereira
 
 - Tem alguma forma de colocar o Electron em inglês? ❌
-  - Deve ter, mas nunca tive que resolver tal problema, porém não saberei responder de imediato. Eu teria que experimentar antes, e caso o faça, criarei algum documento para repassar os aprendizados.
+  - Deve ter, mas nunca tive que resolver tal problema, portanto não saberei responder de imediato. Eu teria que experimentar antes, e caso o faça, criarei algum documento para repassar os aprendizados.
 
 ## Gustavo Duarte
 
