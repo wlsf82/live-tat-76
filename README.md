@@ -80,6 +80,8 @@ https://youtu.be/6lMy3NXjw7E
 - Já fez um prós e contras entre Cypress e Playwright? ✅
   - Não exatamente, mas na live dando meus primeiros passos com Playwright fiz algumas comparações em tempo real.
 
+https://youtu.be/WzMfeBLxeM4
+
 ## Amanda Lima
 
 - Cypress é bastante requisitado fora do Brasil? ✅
